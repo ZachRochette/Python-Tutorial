@@ -11,4 +11,4 @@ to solve on your own. A solution will be provided for every problem, it is sugge
 to solve the problem before viewing the solution.
 
 # Contact
-Zach Rochette | 208-111-1111 | Example@example.com
+Zach Rochette | 208-821-2429 | zachrochette@hotmail.com

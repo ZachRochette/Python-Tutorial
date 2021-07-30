@@ -108,4 +108,4 @@ before looking at the given solution.
 
 Compare your code to the solution here: [Solution](stack_solution.md)
 
-Back to home: [main page](final_draft.md)
+Back to home: [main page](home_page.md)

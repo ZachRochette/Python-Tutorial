@@ -141,4 +141,4 @@ Using the functions provided above add functions to get the max and min values w
 
 Compare your code to the solution here: [Solution](tree_solution.md)
 
-Back to home: [main page](final_draft.md)
+Back to home: [main page](home_page.md)
